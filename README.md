@@ -17,7 +17,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER_LINK_HERE" alt="Piyush Asopa Banner"/>
+  <img src="Designer.png" alt="Piyush Asopa Banner"/>
 </p>
 
 # 👋 Hey, I’m **Piyush Asopa**
